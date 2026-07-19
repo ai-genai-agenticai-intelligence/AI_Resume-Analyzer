@@ -4,7 +4,7 @@ from analyzer import analyze_resume
 
 st.set_page_config(page_title="Resume Analyzer", page_icon=":bar_chart:", layout="wide")
 
-st.title("RESUME ANALYZER APP BY ABHISHEK")
+st.title("AI-POWERED RESUME ANALYZER")
 st.write("This app analyzes resumes and provides insights into the candidate's qualifications, skills, and experience.")
 
 uploaded_file = st.file_uploader("Upload a resume (PDF format)", type=["pdf"])
