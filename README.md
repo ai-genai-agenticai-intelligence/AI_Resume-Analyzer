@@ -15,3 +15,4 @@ HF_TOKEN = "hf_your_token_here"
 
 The app no longer requires a local Ollama server, which is unavailable inside
 Streamlit Cloud.
+https://airesume-analyzer-hfpcynhkhk5uf9rnb5owcr.streamlit.app
