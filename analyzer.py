@@ -5,7 +5,7 @@ from huggingface_hub import InferenceClient
 
 from prompts import PROMPT
 
-MODEL_NAME = "Qwen/Qwen2.5-7B-Instruct"
+MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 
 
 def _get_huggingface_token():
